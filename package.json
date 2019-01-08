@@ -1,0 +1,23 @@
+{
+  "name": "weather-app-react-basics-exercise",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "moment": "2.22.2",
+    "react": "16.3.2",
+    "react-dom": "16.3.2",
+    "react-open-weather-icons": "1.0.2",
+    "react-scripts": "1.1.4",
+    "styled-components": "3.4.2",
+    "webpack": "4.16.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
